@@ -1,4 +1,4 @@
-# rexlog
+# rexlogwinvb
 A Basic Amateur Radio Log Program created in Visual Basic
 Author - ki4rex - S. Ryan Russell General Class Amateur Radio Operator/Ham
 This is where I will keep my read me information for this program
